@@ -55,8 +55,8 @@ def travel():
 
 
 
-APP_ID = '23b8cb3d',
-APP_KEY = '5a881dfd810d7474b0446591e247c92a',
+APP_ID = '',
+APP_KEY = '',
 
 def perform_query(start, end):
 
